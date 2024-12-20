@@ -2,6 +2,6 @@
 
 #include <iostream>
 
-void printHello() {
+void printHello() { // Function definition for printHello
     std::cout << "Hello, World!" << std::endl;
 }
