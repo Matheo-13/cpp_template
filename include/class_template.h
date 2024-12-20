@@ -18,7 +18,7 @@ protected:  // This is a protected access specifier, which means that the member
 
 };
 
-class DerivedClass : public ClassTemplate {
+class DerivedClass : public ClassTemplate { // This is an example of inheritance. DerivedClass is derived from ClassTemplate.
 public:
     DerivedClass();
     ~DerivedClass();
